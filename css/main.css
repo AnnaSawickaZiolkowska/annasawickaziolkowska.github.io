@@ -1,7 +1,16 @@
-#main div{
+
+body{
+    margin: 0;
+    font-family: arial;
+    background: #eee;
+}
+#header {
     text-align: center;
 }
 
-h1{
-    text-align: center;
+#banner img{
+
+    margin: 0;    
+    width: 100%;
+        
 }
