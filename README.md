@@ -1,7 +1,6 @@
 # annasawickaziolkowska.github.io
 
-##My first portfolio
-
+# My first portfolio
 ## Witaj na moim pierwszym portfolio.
 
 Właśnie rozpoczełam półroczy kurs Junior FrontEnd Developer z InfoShare Academy.
